@@ -57,7 +57,8 @@ def process_file():
 
             #make sure id is of the proper form
             id = row[3]
-
+            
+            #regex to make sure it is 2 letters + 4 digits
             id_m = re.match("[A-Z][A-Z][0-9][0-9][0-9][0-9]", id)
 
             if not id_m:
@@ -78,6 +79,7 @@ def process_file():
             #check if phone number is proper
             phone = row[4]
 
+            #regex to make sure it's xxx-xxx-xxxx
             phone_m = re.match("\d{3}-\d{3}-\d{4}", phone)
 
             if not phone_m:
