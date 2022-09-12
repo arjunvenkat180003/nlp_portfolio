@@ -15,6 +15,6 @@ Some of the strengths for python processing in my opinion are its wide variety o
 
 The main that I learned in this assignment are how to use regex. Opening and manipulating CSVs and other aspects of the text processing were more of a review to me. 
 
-#Assignment 2
+# Assignment 2
 
 https://github.com/arjunvenkat180003/nlp_portfolio/blob/main/CS4395_Assignment2_asv180003.ipynb
