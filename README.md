@@ -14,3 +14,7 @@ The program takes in a CSV of first name/last name/middle initial/id/phone numbe
 Some of the strengths for python processing in my opinion are its wide variety of easy to use libraries (including re, csv, etc). The syntax is intuitive and one can write the required code pretty quickly. However, it may run a bit slower than other languages for the same task. 
 
 The main that I learned in this assignment are how to use regex. Opening and manipulating CSVs and other aspects of the text processing were more of a review to me. 
+
+#Assignment 2
+
+https://github.com/arjunvenkat180003/nlp_portfolio/blob/main/CS4395_Assignment2_asv180003.ipynb
