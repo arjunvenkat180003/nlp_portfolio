@@ -18,3 +18,7 @@ The main that I learned in this assignment are how to use regex. Opening and man
 # Assignment 2
 
 https://github.com/arjunvenkat180003/nlp_portfolio/blob/main/CS4395_Assignment2_asv180003.ipynb
+
+# n-grams 
+
+https://github.com/arjunvenkat180003/nlp_portfolio/tree/main/n-grams
